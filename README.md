@@ -1,6 +1,6 @@
-# ML Course Projects
+## Intermediate Machine Learning Course Projects
 
-This repository contains projects completed for an Intermediate Machine Learning course. The notebooks combine theoretical concepts with practical implementations across classical machine learning, deep learning, reinforcement learning, graph learning, and transformers.
+This repository contains projects completed for my S&DS 6650 Intermediate Machine Learning course at Yale University. The notebooks combine theoretical concepts with practical implementations across classical machine learning, deep learning, reinforcement learning, graph learning, and transformers.
 
 Most of the projects include:
 - Concept explanations
@@ -8,8 +8,6 @@ Most of the projects include:
 - Code implementations
 - Experiments and visualizations
 - Discussion of results
-
----
 
 ## Project 1 — Predictive Modeling and Kernel Methods
 **Folder:** `project-1-predictive-modeling-and-kernel-methods`
@@ -28,8 +26,6 @@ Skills used:
 - Kernel methods
 - Scientific Python workflows
 
----
-
 ## Project 2 — Convolutional Neural Networks and Gaussian Processes
 **Folder:** `project-2-convolutional-neural-networks-and-gaussian-processes`
 
@@ -45,8 +41,6 @@ Skills used:
 - Generalization analysis
 - Visualization and experimentation
 
----
-
 ## Project 3 — Variational Autoencoders and Graphical Models
 **Folder:** `project-3-variational-autoencoders-and-graphical-models`
 
@@ -61,8 +55,6 @@ Skills used:
 - Probabilistic graphical models
 - Sparse estimation methods
 - High-dimensional data analysis
-
----
 
 ## Project 4 — Graph Neural Networks and Reinforcement Learning
 **Folder:** `project-4-graph-neural-networks-and-reinforcement-learning`
@@ -80,8 +72,6 @@ Skills used:
 - PyTorch workflows
 - Sequential optimization methods
 
----
-
 ## Project 5 — Transformers and Sequence Models
 **Folder:** `project-5-transformers-and-sequence-models`
 
@@ -98,8 +88,6 @@ Skills used:
 - Deep learning optimization
 - NLP-related architectures
 
----
-
 ## Tools & Libraries
 
 Some of the main libraries used throughout the projects:
@@ -110,7 +98,5 @@ Some of the main libraries used throughout the projects:
 - Scikit-learn
 - TensorFlow / Keras
 - PyTorch
-
----
 
 These projects were completed as part of coursework and are mainly intended for learning, experimentation, and portfolio purposes.
