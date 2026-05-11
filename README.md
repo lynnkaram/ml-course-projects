@@ -2,95 +2,67 @@
 
 This repository contains projects completed for my S&DS 6650 Intermediate Machine Learning course at Yale University. The notebooks combine theoretical concepts with practical implementations across classical machine learning, deep learning, reinforcement learning, graph learning, and transformers.
 
-Most of the projects include:
-- Concept explanations
-- Mathematical intuition
-- Code implementations
-- Experiments and visualizations
-- Discussion of results
+# Projects
 
-## Project 1: Predictive Modeling and Kernel Methods
-**Folder:** `project-1-predictive-modeling-and-kernel-methods`
+## Project 1 — Regularization and Kernels
+**Folder:** `project-1-regularization-and-kernels`
 
-Topics covered:
+Topics explored:
 - Lasso regression
+- Ridge regression
 - Bias-variance decomposition
 - Mercer kernels
 - Kernel smoothing
-- Ridge regression
-
-Skills used:
-- Regression modeling
 - Regularization methods
-- Model evaluation
-- Kernel methods
-- Scientific Python workflows
+- Predictive modeling
 
-## Project 2: Convolutional Neural Networks and Gaussian Processes
-**Folder:** `project-2-convolutional-neural-networks-and-gaussian-processes`
+## Project 2 — Deep Learning and Gaussian Processes
+**Folder:** `project-2-deep-learning-and-gaussian-processes`
 
-Topics covered:
+Topics explored:
 - Convolutional Neural Networks (CNNs)
 - Gaussian Processes
 - Double descent phenomenon
+- Neural network optimization
+- Generalization in deep learning
+- Probabilistic machine learning
 
-Skills used:
-- Neural network implementation
-- Deep learning workflows
-- Probabilistic ML methods
-- Generalization analysis
-- Visualization and experimentation
+## Project 3 — Generative Models and Graph Learning
+**Folder:** `project-3-generative-models-and-graph-learning`
 
-## Project 3: Variational Autoencoders and Graphical Models
-**Folder:** `project-3-variational-autoencoders-and-graphical-models`
-
-Topics covered:
+Topics explored:
 - Variational Autoencoders (VAEs)
+- Latent variable models
 - Undirected graphical models
 - Graphical lasso
-
-Skills used:
+- Sparse estimation
 - Representation learning
-- Latent variable modeling
-- Probabilistic graphical models
-- Sparse estimation methods
-- High-dimensional data analysis
 
-## Project 4: Graph Neural Networks and Reinforcement Learning
+## Project 4 — Graph Neural Networks and Reinforcement Learning
 **Folder:** `project-4-graph-neural-networks-and-reinforcement-learning`
 
-Topics covered:
+Topics explored:
 - Graph kernels and Laplacians
 - Graph Neural Networks (GNNs)
 - Policy gradient algorithms
 - Deep Q-learning
-
-Skills used:
 - Reinforcement learning
-- Deep Q-networks
-- Graph-based machine learning
-- PyTorch workflows
-- Sequential optimization methods
+- Sequential decision making
 
-## Project 5: Transformers and Sequence Models
+## Project 5 — Transformers and Sequence Models
 **Folder:** `project-5-transformers-and-sequence-models`
 
-Topics covered:
+Topics explored:
 - Recurrent Neural Networks (RNNs)
 - GRUs
 - Transformers
 - Attention mechanisms
-
-Skills used:
 - Sequence modeling
-- Transformer architectures
-- Neural attention
-- Deep learning optimization
-- NLP-related architectures
+- Neural language architectures
 
 ## Tools & Libraries
 
-Some of the main libraries used throughout the projects:
+Main libraries used throughout the projects:
 - Python
 - NumPy
 - Pandas
