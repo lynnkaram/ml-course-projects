@@ -1,63 +1,61 @@
-# Intermediate Machine Learning Course Projects
+# ML Course Projects
 
-This repository contains a collection of machine learning projects completed as part of the S&DS 6650 Intermediate Machine Learning course at Yale University. The projects explore both theoretical foundations and practical implementations across classical ML, deep learning, graph learning, reinforcement learning, and transformers.
+This repository contains projects completed for an Intermediate Machine Learning course. The notebooks combine theoretical concepts with practical implementations across classical machine learning, deep learning, reinforcement learning, graph learning, and transformers.
 
-Each notebook includes:
+Most of the projects include:
 - Concept explanations
 - Mathematical intuition
 - Code implementations
 - Experiments and visualizations
-- Step-by-step analysis
+- Discussion of results
 
 ---
 
-# Projects
-
-## 1. Predictive Modeling and Kernel Methods
+## Project 1 — Predictive Modeling and Kernel Methods
 **Folder:** `project-1-predictive-modeling-and-kernel-methods`
 
-Explores core machine learning concepts including:
+Topics covered:
 - Lasso regression
 - Bias-variance decomposition
 - Mercer kernels
 - Kernel smoothing
 - Ridge regression
 
-### Skills Demonstrated
+Skills used:
 - Regression modeling
-- Feature regularization
+- Regularization methods
 - Model evaluation
 - Kernel methods
 - Scientific Python workflows
 
 ---
 
-## 2. Convolutional Neural Networks and Gaussian Processes
+## Project 2 — Convolutional Neural Networks and Gaussian Processes
 **Folder:** `project-2-convolutional-neural-networks-and-gaussian-processes`
 
-Focuses on deep learning fundamentals and probabilistic modeling:
+Topics covered:
 - Convolutional Neural Networks (CNNs)
 - Gaussian Processes
 - Double descent phenomenon
 
-### Skills Demonstrated
+Skills used:
 - Neural network implementation
-- Deep learning training workflows
+- Deep learning workflows
 - Probabilistic ML methods
 - Generalization analysis
 - Visualization and experimentation
 
 ---
 
-## 3. Variational Autoencoders and Graphical Models
+## Project 3 — Variational Autoencoders and Graphical Models
 **Folder:** `project-3-variational-autoencoders-and-graphical-models`
 
-Explores generative modeling and structured probabilistic systems:
+Topics covered:
 - Variational Autoencoders (VAEs)
 - Undirected graphical models
 - Graphical lasso
 
-### Skills Demonstrated
+Skills used:
 - Representation learning
 - Latent variable modeling
 - Probabilistic graphical models
@@ -66,16 +64,16 @@ Explores generative modeling and structured probabilistic systems:
 
 ---
 
-## 4. Graph Neural Networks and Reinforcement Learning
+## Project 4 — Graph Neural Networks and Reinforcement Learning
 **Folder:** `project-4-graph-neural-networks-and-reinforcement-learning`
 
-Covers graph-based deep learning and sequential decision-making:
+Topics covered:
 - Graph kernels and Laplacians
 - Graph Neural Networks (GNNs)
 - Policy gradient algorithms
 - Deep Q-learning
 
-### Skills Demonstrated
+Skills used:
 - Reinforcement learning
 - Deep Q-networks
 - Graph-based machine learning
@@ -84,16 +82,16 @@ Covers graph-based deep learning and sequential decision-making:
 
 ---
 
-## 5. Transformers and Sequence Models
+## Project 5 — Transformers and Sequence Models
 **Folder:** `project-5-transformers-and-sequence-models`
 
-Explores modern sequence modeling architectures:
+Topics covered:
 - Recurrent Neural Networks (RNNs)
 - GRUs
 - Transformers
 - Attention mechanisms
 
-### Skills Demonstrated
+Skills used:
 - Sequence modeling
 - Transformer architectures
 - Neural attention
@@ -102,9 +100,9 @@ Explores modern sequence modeling architectures:
 
 ---
 
-# Tools & Libraries
+## Tools & Libraries
 
-Projects make use of:
+Some of the main libraries used throughout the projects:
 - Python
 - NumPy
 - Pandas
@@ -115,8 +113,4 @@ Projects make use of:
 
 ---
 
-# Notes
-
-These projects are intended for educational and portfolio purposes. The notebooks emphasize both conceptual understanding and implementation details, with a focus on reproducibility and interpretability.
-
----
+These projects were completed as part of coursework and are mainly intended for learning, experimentation, and portfolio purposes.
