@@ -9,7 +9,7 @@ Most of the projects include:
 - Experiments and visualizations
 - Discussion of results
 
-## Project 1 — Predictive Modeling and Kernel Methods
+## Project 1: Predictive Modeling and Kernel Methods
 **Folder:** `project-1-predictive-modeling-and-kernel-methods`
 
 Topics covered:
@@ -26,7 +26,7 @@ Skills used:
 - Kernel methods
 - Scientific Python workflows
 
-## Project 2 — Convolutional Neural Networks and Gaussian Processes
+## Project 2: Convolutional Neural Networks and Gaussian Processes
 **Folder:** `project-2-convolutional-neural-networks-and-gaussian-processes`
 
 Topics covered:
@@ -41,7 +41,7 @@ Skills used:
 - Generalization analysis
 - Visualization and experimentation
 
-## Project 3 — Variational Autoencoders and Graphical Models
+## Project 3: Variational Autoencoders and Graphical Models
 **Folder:** `project-3-variational-autoencoders-and-graphical-models`
 
 Topics covered:
@@ -56,7 +56,7 @@ Skills used:
 - Sparse estimation methods
 - High-dimensional data analysis
 
-## Project 4 — Graph Neural Networks and Reinforcement Learning
+## Project 4: Graph Neural Networks and Reinforcement Learning
 **Folder:** `project-4-graph-neural-networks-and-reinforcement-learning`
 
 Topics covered:
@@ -72,7 +72,7 @@ Skills used:
 - PyTorch workflows
 - Sequential optimization methods
 
-## Project 5 — Transformers and Sequence Models
+## Project 5: Transformers and Sequence Models
 **Folder:** `project-5-transformers-and-sequence-models`
 
 Topics covered:
